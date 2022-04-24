@@ -1,2 +1,2 @@
-# JiachengMa-26.github.io
+# This is the first website in my life.
 http://mjc0001.synology.me/
